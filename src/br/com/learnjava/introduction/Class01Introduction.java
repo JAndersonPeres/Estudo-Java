@@ -2,7 +2,7 @@ package br.com.learnjava.introduction;
 /**
  * This is a <b>javadoc</b> comment.
  */
-public class Main{
+public class Class01Introduction {
     // This is a One Line Comment
     /*
         This is a Multiple
